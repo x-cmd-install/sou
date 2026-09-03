@@ -1,11 +1,13 @@
 about:
-  description: A tool for exploring files in container image layers
+  description:
+  |
+    A tool for exploring files in container image layers
   license: Apache-2.0
   homepage: 
   head: 378cf96
   archived: false
   latestVersion: v0.2.0
-  collectedAt: 2026-09-03T05:23:52Z
+  collectedAt: 2026-09-03T22:34:49Z
 timeline:
   created: 2025-01-31
   lastCommit: 2025-02-07
@@ -21,7 +23,7 @@ popularity:
 language:
   Go: 116319
   Dockerfile: 154
-totalLine: 116473
+totalBytes: 116473
 recent:
   last30d:
     since: 2026-08-04
