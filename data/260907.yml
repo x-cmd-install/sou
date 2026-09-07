@@ -5,7 +5,7 @@ about:
   head: 378cf96
   archived: false
   latestVersion: "v0.2.0"
-  collectedAt: 2026-09-07T05:49:54Z
+  collectedAt: 2026-09-07T18:37:00Z
 timeline:
   created: 2025-01-31
   lastCommit: 2025-02-07
@@ -80,7 +80,7 @@ total:
   commit: 14
 ---
 path: /home/runner/.x-repo/github.com/knqyf263/sou
-collectedAt: 2026-09-07T05:49:55Z
+collectedAt: 2026-09-07T18:37:01Z
 loc:
   Go:
     code: 3984
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:49:56+00:00
+  collectedAt: 2026-09-07T18:37:02+00:00
   platform:
     darwin/arm64:
       name:  sou_Darwin_arm64.tar.gz
