@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3685063,
       "digest": null,
-      "download_count": 523,
+      "download_count": 525,
       "created_at": "2025-02-07T10:18:43Z",
       "updated_at": "2025-02-07T10:18:44Z",
       "browser_download_url": "https://github.com/knqyf263/sou/releases/download/v0.2.0/sou_Linux_x86_64.tar.gz"
