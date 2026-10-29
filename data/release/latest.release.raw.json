@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3546571,
       "digest": null,
-      "download_count": 80,
+      "download_count": 81,
       "created_at": "2025-02-07T10:18:43Z",
       "updated_at": "2025-02-07T10:18:44Z",
       "browser_download_url": "https://github.com/knqyf263/sou/releases/download/v0.2.0/sou_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3754420,
       "digest": null,
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2025-02-07T10:18:43Z",
       "updated_at": "2025-02-07T10:18:44Z",
       "browser_download_url": "https://github.com/knqyf263/sou/releases/download/v0.2.0/sou_Darwin_x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3685063,
       "digest": null,
-      "download_count": 611,
+      "download_count": 615,
       "created_at": "2025-02-07T10:18:43Z",
       "updated_at": "2025-02-07T10:18:44Z",
       "browser_download_url": "https://github.com/knqyf263/sou/releases/download/v0.2.0/sou_Linux_x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3810807,
       "digest": null,
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2025-02-07T10:18:44Z",
       "updated_at": "2025-02-07T10:18:44Z",
       "browser_download_url": "https://github.com/knqyf263/sou/releases/download/v0.2.0/sou_Windows_x86_64.zip"
